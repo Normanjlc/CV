@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.12.10)  8 JAN 2016 00:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.12.10)  8 JAN 2016 00:46
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -960,14 +960,14 @@ LaTeX Info: Redefining \up on input line 68.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
-* v-part:(T,H,B)=(14.22636pt, 759.6886pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=455.24411pt
-* \textheight=759.6886pt
+* \textheight=702.78308pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
-* \topmargin=-95.04362pt
+* \topmargin=-38.1381pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -1048,85 +1048,58 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 73.
 
-Underfull \hbox (badness 5726) in paragraph at lines 103--103
+Underfull \hbox (badness 5726) in paragraph at lines 104--104
 []\T1/lmss/m/n/10.95 (+20) Analyse cri-tique
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 103--103
+Underfull \hbox (badness 4995) in paragraph at lines 104--104
 []\T1/lmss/m/n/10.95 (+20) Calculs d'ef-forts
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/lmss/m/n/10.95 (+20) R�sistance des
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/lmss/m/n/10.95 (+20) Connaissance
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
 \T1/lmss/m/n/10.95 (+20) des com-po-
  []
 
 
-Underfull \hbox (badness 3108) in paragraph at lines 103--103
+Underfull \hbox (badness 3108) in paragraph at lines 104--104
 \T1/lmss/m/n/10.95 (+20) sants usuels de
  []
 
 
-Underfull \hbox (badness 3977) in paragraph at lines 103--103
+Underfull \hbox (badness 3977) in paragraph at lines 104--104
 []\T1/lmss/m/n/10.95 (+20) S�curisation des
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
 \T1/lmss/m/n/10.95 (-5) Dimensionnement
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 103--103
+Underfull \hbox (badness 1721) in paragraph at lines 104--104
 []\T1/lmss/m/n/10.95 (+20) Circuits lo-giques
  []
 
 
-Overfull \hbox (5.68916pt too wide) in paragraph at lines 107--107
+Overfull \hbox (5.68916pt too wide) in paragraph at lines 108--108
 [][] 
- []
-
-
-Overfull \hbox (4.00902pt too wide) in paragraph at lines 126--126
- []|[]\T1/lmss/m/n/10.95 (-20) Anglais[]|
- []
-
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 126.
-
-Overfull \hbox (227.61856pt too wide) in paragraph at lines 126--126
-[]|[] 
- []
-
-
-Overfull \hbox (13.36897pt too wide) in paragraph at lines 126--126
- []|[]\T1/lmss/m/n/10.95 (-20) Allemand[]|
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
-[]| \T1/lmss/m/n/10.95 (+20) B2
- []
-
-
-Overfull \hbox (227.61856pt too wide) in paragraph at lines 126--126
-[] 
  []
 
 
@@ -1144,20 +1117,20 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
 ! Undefined control sequence.
 \@extrainfo ->Permis B\footersymbol 
                                     Véhiculé
-l.127 
-      
+l.127 	\end{cvcolumns}
+                      
 ? 
 ! Undefined control sequence.
 \@extrainfo ->Permis B\footersymbol 
                                     Véhiculé
-l.127 
-      
+l.127 	\end{cvcolumns}
+                      
 ? 
 ! Undefined control sequence.
 \@extrainfo ->Permis B\footersymbol 
                                     Véhiculé
-l.127 
-      
+l.127 	\end{cvcolumns}
+                      
 ? 
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -1168,24 +1141,49 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./moi_NB.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
+Overfull \hbox (4.00902pt too wide) in paragraph at lines 127--127
+ []|[]\T1/lmss/m/n/10.95 (-20) Anglais[]|
+ []
 
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 127.
+
+Overfull \hbox (227.61856pt too wide) in paragraph at lines 127--127
+[]|[] 
+ []
+
+
+Overfull \hbox (13.36897pt too wide) in paragraph at lines 127--127
+ []|[]\T1/lmss/m/n/10.95 (-20) Allemand[]|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+[]| \T1/lmss/m/n/10.95 (+20) B2
+ []
+
+
+Overfull \hbox (227.61856pt too wide) in paragraph at lines 127--127
+[] 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
 ! Undefined control sequence.
 \@extrainfo ->Permis B\footersymbol 
                                     Véhiculé
-l.164 \end{document}
+l.165 \end{document}
                     
 ? 
 ! Undefined control sequence.
 \@extrainfo ->Permis B\footersymbol 
                                     Véhiculé
-l.164 \end{document}
+l.165 \end{document}
                     
 ? 
 ! Undefined control sequence.
 \@extrainfo ->Permis B\footersymbol 
                                     Véhiculé
-l.164 \end{document}
+l.165 \end{document}
                     
 ? 
 
@@ -1195,10 +1193,10 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
  (./CV_JAN-LE_CLOIREC_Norman.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 164.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 164.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
 Package rerunfilecheck Info: File `CV_JAN-LE_CLOIREC_Norman.out' has not change
 d.
 (rerunfilecheck)             Checksum: 1B1873DE63049F5DA86AC9279CA39DF8;872.
@@ -1210,11 +1208,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  21272 strings out of 493054
  347890 string characters out of 6140585
- 443848 words of memory out of 5000000
+ 441711 words of memory out of 5000000
  24538 multiletter control sequences out of 15000+600000
- 59675 words of font info for 63 fonts, out of 8000000 for 9000
+ 62480 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,30n,50p,10403b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,30n,54p,10403b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dis
 t/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/texmf-dist/fonts/e
 nc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/fontawesome/Fon
@@ -1224,7 +1222,7 @@ e/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type
 b></usr/share/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf-di
 st/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf-dist/fonts/type1/public/
 lm/lmsy10.pfb>
-Output written on CV_JAN-LE_CLOIREC_Norman.pdf (2 pages, 2159453 bytes).
+Output written on CV_JAN-LE_CLOIREC_Norman.pdf (2 pages, 2158617 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
