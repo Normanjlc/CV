@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.12.10)  8 JAN 2016 01:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.12.10)  8 JAN 2016 01:12
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1090,8 +1090,8 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 107.
 
 ! Undefined control sequence.
-\@extrainfo ->Permis B\footersymbol 
-                                    Véhiculé
+\@extrainfo ->Permis B \footersymbol 
+                                     Véhiculé
 l.107 \newpage
               
 ? 
@@ -1137,8 +1137,8 @@ Overfull \hbox (232.59763pt too wide) in paragraph at lines 127--127
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
 ! Undefined control sequence.
-\@extrainfo ->Permis B\footersymbol 
-                                    Véhiculé
+\@extrainfo ->Permis B \footersymbol 
+                                     Véhiculé
 l.165 \end{document}
                     
 ? 
@@ -1164,7 +1164,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  21272 strings out of 493054
  347890 string characters out of 6140585
- 441717 words of memory out of 5000000
+ 441718 words of memory out of 5000000
  24538 multiletter control sequences out of 15000+600000
  62480 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1178,7 +1178,7 @@ e/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type
 b></usr/share/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf-di
 st/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf-dist/fonts/type1/public/
 lm/lmsy10.pfb>
-Output written on CV_JAN-LE_CLOIREC_Norman.pdf (2 pages, 2158598 bytes).
+Output written on CV_JAN-LE_CLOIREC_Norman.pdf (2 pages, 2158601 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
